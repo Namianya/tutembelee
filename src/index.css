@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.homepage{
+  background-image: url("assets/images/road.jpg");
+  background-size: cover;
+}
